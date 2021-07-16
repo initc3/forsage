@@ -10,6 +10,7 @@
 * etherScanScraper.ipynb - scrape tags from etherscan
 * etherscan_tags.csv - etherscan tags
 * tron_scraper.ipynb - scrape tron transactions 
+* figure8.ipynb - make figure 8
 * data - scrape from either google big query or run a node and run https://github.com/blockchain-etl/ethereum-etl 
 ```
 
